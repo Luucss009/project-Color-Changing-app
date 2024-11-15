@@ -1,0 +1,1 @@
+Ich habe den Code per Visuel Studios erstellt und dort per gegebener http Adresse angepasst die Adresse steht im terminal nach Aktivierung, um zu aktivieren python app.py eingeben, achso flask muss installiert sein per terminal pip install Flask eingeben für denn Download.
